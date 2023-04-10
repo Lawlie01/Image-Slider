@@ -9,9 +9,9 @@ body {
 }
 
 .img-container {
-    width: 70%;
+    width: 60%;
     height: 80vh;
-    background: url("img/HD-wallpaper-need-for-speed-nissan-gtr-side-view-need-for-speed-games-nissan-gtr.jpg") center/cover fixed no-repeat;
+    background: url("../img/1.jpg") center/cover fixed no-repeat;
     border: 0.5rem solid #fff700;
     border-radius: 0.5rem;
     position: relative;
